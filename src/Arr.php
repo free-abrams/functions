@@ -16,7 +16,7 @@ class Arr
 		return $arr;
 	}
 
-	public static function Add($arr =[], $key, $value)
+	public static function Add($arr = [], $key, $value)
 	{
 		$arr = array_push($arr, [$key => $value]);
 
