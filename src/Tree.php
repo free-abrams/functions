@@ -1,5 +1,5 @@
 <?php
-namespace FreeAbarms\Functions\Tree;
+namespace FreeAbrams\Functions;
 
 /**
  * 一维数据数组生成数据树
